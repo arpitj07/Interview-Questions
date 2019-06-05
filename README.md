@@ -12,3 +12,4 @@
 ### Data Science
 
 - **[109 Data Science Interview Questions and Answers](https://www.springboard.com/blog/data-science-interview-questions/)**
+- **[Data Science Interview Questions & Detailed Answers](https://rpubs.com/JDAHAN/172473)**
