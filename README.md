@@ -1,7 +1,7 @@
 # Interview-Questions
 
 
-## [AWS](https://github.com/arpitj07/Interview-Questions/edit/master/README.md#aws)
+## [AWS](https://github.com/arpitj07/Interview-Questions/blob/master/README.md#aws-1)
 
 
 ### AWS
